@@ -1,0 +1,11 @@
+.navbar{
+    background-color: cadetblue;
+    padding: 20px;
+}
+.navbar, ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-end;
+    margin: 20px;
+    
+  }
