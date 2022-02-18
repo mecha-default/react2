@@ -1,3 +1,8 @@
+
 .main{
     background-color: crimson;
+}
+.tarjetas{
+    display: flex;
+    flex-wrap: wrap;
 }
